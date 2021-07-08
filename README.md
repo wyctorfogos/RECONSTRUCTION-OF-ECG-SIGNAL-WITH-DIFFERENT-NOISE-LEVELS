@@ -1,6 +1,6 @@
 # RECONSTRUCTION OF ECG SIGNAL WITH DIFFERENT NOISE LEVELS
 
-![compensador_tela_inicial](https://user-images.githubusercontent.com/48840280/Signals (1).png)
+![compensador_tela_inicial](https://github.com/wyctorfogos/RECONSTRUCTION-OF-ECG-SIGNAL-WITH-DIFFERENT-NOISE-LEVELS/blob/main/Signals%20(1).png)
 
 LSTM to reconstruct ECG SIGNAL WITH DIFFERENT NOISE LEVELS.
 

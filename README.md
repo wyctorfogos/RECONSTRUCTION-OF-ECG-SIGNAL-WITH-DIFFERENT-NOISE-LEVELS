@@ -1,5 +1,7 @@
-# Classificador-de-imagens-dos-6-tipos-de-marchas
+# RECONSTRUCTION OF ECG SIGNAL WITH DIFFERENT NOISE LEVELS
 
-Convolutional Neural Network (CNN) to recognize 6 differents types of movements using the STAR RGB process.
+LSTM to reconstruct ECG SIGNAL WITH DIFFERENT NOISE LEVELS.
 
-I suggest the use of a GPU to train this model.
+Dataset: http://storage.googleapis.com/download.tensorflow.org/data/ecg.csv
+
+*Obs.: It's a adaptation of a Tensorflow code.
